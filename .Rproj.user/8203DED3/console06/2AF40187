@@ -1600,3 +1600,39 @@ rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Proj
 rm '.Rproj.user/shared/notebooks/patch-chunk-names'
 rm '.Rproj.user/shared/notebooks/paths'
 ]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnolaa$ git add .
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnolaa$ git d[Kcommit -m 'Delete folder'
+[master 5f43707] Delete folder
+ Committer: Vergara-Spagnola <vergara-spagnola@10-16-153-103.dynapool.wireless.nyu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 191 insertions(+)
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnolaa$ git push
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 2.52 KiB | 1.26 MiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
+To https://github.com/wspagnola/missing_data_final.git
+   6d379d5..5f43707  master -> master
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnolaa$ git vim [K[K[K[K[K[K[K[Kcd .gitignore
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ vim . gitignore
+[?2004h]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ vim . git.gi[K[Kignore
+[?2004h]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ dir[K[K[Kcd .. [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K.
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnolaa$ git cache[K[K[K[K[K--cache -r .Rproj.user
+Unknown option: --cache
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnolaa$ [K[A10-16-153-103:missing_data_final vergara-spagnola$ git add .
