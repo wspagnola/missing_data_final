@@ -1636,3 +1636,77 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
            <command> [<args>]
 ]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnolaa$ [K[A10-16-153-103:missing_data_final vergara-spagnola$ git add .
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnola$ git commit -m '[K'de lete again'
+[master 0ab36d5] delete again
+ Committer: Vergara-Spagnola <vergara-spagnola@10-16-153-103.dynapool.wireless.nyu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 12 files changed, 41 insertions(+), 5 deletions(-)
+ rewrite .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c7sczvb5mhl1h/000029.png (97%)
+ rewrite .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c7sczvb5mhl1h/000033.png (97%)
+ rewrite .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c7sczvb5mhl1h/00003d.png (96%)
+ rewrite .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ct89gazy4w3gl/000005.png (97%)
+ rewrite .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cwrnlsqiro8kj/000003.png (93%)
+ rewrite .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cyuxilrxe5332/000003.png (97%)
+ create mode 100644 .gitignore/.git.ignore
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnola$ git push
+Counting objects: 27, done.
+Delta compression using up to 4 threads.
+Compressing objects:   4% (1/22)   Compressing objects:   9% (2/22)   Compressing objects:  13% (3/22)   Compressing objects:  18% (4/22)   Compressing objects:  22% (5/22)   Compressing objects:  27% (6/22)   Compressing objects:  31% (7/22)   Compressing objects:  36% (8/22)   Compressing objects:  40% (9/22)   Compressing objects:  45% (10/22)   Compressing objects:  50% (11/22)   Compressing objects:  54% (12/22)   Compressing objects:  59% (13/22)   Compressing objects:  63% (14/22)   Compressing objects:  68% (15/22)   Compressing objects:  72% (16/22)   Compressing objects:  77% (17/22)   Compressing objects:  81% (18/22)   Compressing objects:  86% (19/22)   Compressing objects:  90% (20/22)   Compressing objects:  95% (21/22)   Compressing objects: 100% (22/22)   Compressing objects: 100% (22/22), done.
+Writing objects:   3% (1/27)   Writing objects:   7% (2/27)   Writing objects:  11% (3/27)   Writing objects:  14% (4/27)   Writing objects:  18% (5/27)   Writing objects:  22% (6/27)   Writing objects:  25% (7/27)   Writing objects:  29% (8/27)   Writing objects:  33% (9/27)   Writing objects:  37% (10/27)   Writing objects:  40% (11/27)   Writing objects:  44% (12/27)   Writing objects:  48% (13/27)   Writing objects:  51% (14/27)   Writing objects:  55% (15/27)   Writing objects:  59% (16/27)   Writing objects:  62% (17/27)   Writing objects:  66% (18/27)   Writing objects:  70% (19/27)   Writing objects:  74% (20/27)   Writing objects:  77% (21/27)   Writing objects:  81% (22/27)   Writing objects:  85% (23/27)   Writing objects:  88% (24/27)   Writing objects:  92% (25/27)   Writing objects:  96% (26/27)   Writing objects: 100% (27/27)   Writing objects: 100% (27/27), 437.27 KiB | 11.21 MiB/s, done.
+Total 27 (delta 12), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/12)   [Kremote: Resolving deltas:   8% (1/12)   [Kremote: Resolving deltas:  16% (2/12)   [Kremote: Resolving deltas:  25% (3/12)   [Kremote: Resolving deltas:  33% (4/12)   [Kremote: Resolving deltas:  41% (5/12)   [Kremote: Resolving deltas:  50% (6/12)   [Kremote: Resolving deltas:  58% (7/12)   [Kremote: Resolving deltas:  66% (8/12)   [Kremote: Resolving deltas:  75% (9/12)   [Kremote: Resolving deltas:  83% (10/12)   [Kremote: Resolving deltas:  91% (11/12)   [Kremote: Resolving deltas: 100% (12/12)   [Kremote: Resolving deltas: 100% (12/12), completed with 12 local objects.[K
+To https://github.com/wspagnola/missing_data_final.git
+   5f43707..0ab36d5  master -> master
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnola$ [K10-16-153-103:missing_data_final vergara-spagnolaa$ cd .gitignore
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ [K10-16-153-103:.gitignore vergara-spagnola$ ls -a
+.		..		.git.ignore	.gitignore
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ rm .git.ignore
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ ls -a
+.		..		.gitignore
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ vim .gitignore
+[?2004h]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.gitignore10-16-153-103:.gitignore vergara-spagnola$ cd ..
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnola$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/8203DED3/console06/2AF40187[m
+	[31mmodified:   .Rproj.user/8203DED3/console06/2AF40187.env[m
+	[31mdeleted:    .gitignore/.git.ignore[m
+	[31mmodified:   .gitignore/.gitignore[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnola$ git cache[K[K[K[K[K--cache -r .R porj[K[K[Kroj.user
+Unknown option: --cache
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnola$ git ch[K[Kstatus
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/8203DED3/console06/2AF40187[m
+	[31mdeleted:    .gitignore/.git.ignore[m
+	[31mmodified:   .gitignore/.gitignore[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final10-16-153-103:missing_data_final vergara-spagnola$ git add .
