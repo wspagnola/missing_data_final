@@ -1,0 +1,5 @@
+"0","risk_imp_MI <- mi(risk_mdf, n.chains = 5, n.iter = 30, verbose = F, seed = 2013)"
+"1","starting worker pid=46693 on localhost:11747 at 11:12:56.920
+"
+"1","starting worker pid=46706 on localhost:11747 at 11:12:57.175
+"

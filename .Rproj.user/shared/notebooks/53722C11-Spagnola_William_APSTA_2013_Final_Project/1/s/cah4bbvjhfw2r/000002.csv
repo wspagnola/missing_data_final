@@ -1,0 +1,5 @@
+"0","risk_imp_mi_60 <- mi(risk_MAR, verbose = F, n.iter = 60, seed = 2013)"
+"1","starting worker pid=46755 on localhost:11747 at 11:13:06.423
+"
+"1","starting worker pid=46768 on localhost:11747 at 11:13:06.678
+"
