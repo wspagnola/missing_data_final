@@ -1,5 +1,0 @@
-"0","converged <- mi2BUGS(risk_imp_MI)"
-"0","mean_bmi <- converged[, , 1]"
-"0","mean_health_cover <- converged[, , 2]"
-"0","mean_health_good <- converged[, , 3]"
-"0","ts.plot(mean_bmi[,1], col=1, main = 'BMI Traceplot')"
