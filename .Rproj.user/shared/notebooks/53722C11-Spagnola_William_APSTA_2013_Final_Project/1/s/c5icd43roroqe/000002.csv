@@ -1,0 +1,6 @@
+"0","set.seed(2013)"
+"0","risk_imp_mi_60 <- mi(risk_mdf, verbose = F, n.iter = 60, seed = 2013)"
+"1","starting worker pid=82452 on localhost:11428 at 20:15:33.814
+"
+"1","starting worker pid=82462 on localhost:11428 at 20:15:34.076
+"
