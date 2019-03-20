@@ -1,57 +1,0 @@
-
-Removing .Rproj.user/8203DED3/
-]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git status
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   .gitignore/.gitignore[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31m.Rproj.user/[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git pus[K[K[Kadd .
-]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git commit  -m 'asdf'[Ksadf'
-[master 8a26f84] asdfsadf
- Committer: Vergara-Spagnola <vergara-spagnola@Vergara-Spagnolas-MacBook-Pro.local>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 3 files changed, 83 insertions(+), 3 deletions(-)
- create mode 100644 .Rproj.user/8203DED3/console06/2AF40187
- create mode 100644 .Rproj.user/8203DED3/console06/2AF40187.env
-]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git push
-Counting objects: 9, done.
-Delta compression using up to 4 threads.
-Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
-Writing objects:  11% (1/9)   Writing objects:  22% (2/9)   Writing objects:  33% (3/9)   Writing objects:  44% (4/9)   Writing objects:  55% (5/9)   Writing objects:  66% (6/9)   Writing objects:  77% (7/9)   Writing objects:  88% (8/9)   Writing objects: 100% (9/9)   Writing objects: 100% (9/9), 2.10 KiB | 2.10 MiB/s, done.
-Total 9 (delta 1), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-To https://github.com/wspagnola/missing_data_final.git
-   cea458d..8a26f84  master -> master
-]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git t[Kstatus
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   .Rproj.user/8203DED3/console06/2AF40187[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git push[K[K[K[Kadd .
