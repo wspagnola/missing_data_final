@@ -1168,3 +1168,494 @@ Untracked files:
 	[31m.Rproj.user/[m
 
 ]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git add .Rp roj.user/
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git commit  -m 'Delete folder'
+[master 0760144] Delete folder
+ Committer: Vergara-Spagnola <vergara-spagnola@Vergara-Spagnolas-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 538 insertions(+)
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git push
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 3.06 KiB | 3.06 MiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
+To https://github.com/wspagnola/missing_data_final.git
+   4eeb007..0760144  master -> master
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ cd .Rproj.u ser
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.Rproj.userVergara-Spagnolas-MacBook-Pro:.Rproj.user vergara-spagnola$ c[Kls -a
+.		..		8203DED3	shared
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.Rproj.userVergara-Spagnolas-MacBook-Pro:.Rproj.user vergara-spagnola$ ks
+bash: ks: command not found
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.Rproj.userVergara-Spagnolas-MacBook-Pro:.Rproj.user vergara-spagnola$ ls
+8203DED3	shared
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_final/.Rproj.userVergara-Spagnolas-MacBook-Pro:.Rproj.user vergara-spagnola$ cd .. 
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ ls 
+Spagnola_William_APSTA_2013_Final_Project.Rmd
+Spagnola_William_APSTA_2013_Final_Project.pdf
+data
+img
+missing_data_final.Rproj
+pattern_matrix_code.R
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ dir
+bash: dir: command not found
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ ls -a
+.
+..
+.DS_Store
+.Rproj.user
+.git
+.gitignore
+Spagnola_William_APSTA_2013_Final_Project.Rmd
+Spagnola_William_APSTA_2013_Final_Project.pdf
+data
+img
+missing_data_final.Rproj
+pattern_matrix_code.R
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ rm .Rproj.[K[K[K[K[K[K[K[K[K[Kcd [K[K[Kgit rm --ca che -r .Rporj[K[K[K[Kr=[K[Kproj.user
+rm '.Rproj.user/8203DED3/console06/2AF40187'
+rm '.Rproj.user/8203DED3/console06/2AF40187.env'
+rm '.Rproj.user/8203DED3/console06/INDEX001'
+rm '.Rproj.user/8203DED3/pcs/debug-breakpoints.pper'
+rm '.Rproj.user/8203DED3/pcs/files-pane.pper'
+rm '.Rproj.user/8203DED3/pcs/source-pane.pper'
+rm '.Rproj.user/8203DED3/pcs/windowlayoutstate.pper'
+rm '.Rproj.user/8203DED3/pcs/workbench-pane.pper'
+rm '.Rproj.user/8203DED3/persistent-state'
+rm '.Rproj.user/8203DED3/rmd-outputs'
+rm '.Rproj.user/8203DED3/saved_source_markers'
+rm '.Rproj.user/8203DED3/sources/prop/68B60898'
+rm '.Rproj.user/8203DED3/sources/prop/6AD79A8'
+rm '.Rproj.user/8203DED3/sources/prop/A446D628'
+rm '.Rproj.user/8203DED3/sources/prop/AFAF05DA'
+rm '.Rproj.user/8203DED3/sources/prop/B729558D'
+rm '.Rproj.user/8203DED3/sources/prop/C5D2E5C8'
+rm '.Rproj.user/8203DED3/sources/prop/D158ACB1'
+rm '.Rproj.user/8203DED3/sources/prop/D2D31520'
+rm '.Rproj.user/8203DED3/sources/prop/EE5C72ED'
+rm '.Rproj.user/8203DED3/sources/prop/INDEX'
+rm '.Rproj.user/8203DED3/sources/s-B5AA2065/FD20A72E'
+rm '.Rproj.user/8203DED3/sources/s-B5AA2065/FD20A72E-contents'
+rm '.Rproj.user/8203DED3/sources/s-B5AA2065/lock_file'
+rm '.Rproj.user/8203DED3/viewer_history/current_index'
+rm '.Rproj.user/8203DED3/viewer_history/history_entries'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/index.html'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap-theme.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap-theme.css.map'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap-theme.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap.css.map'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/cerulean.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/cosmo.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/flatly.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Lato.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/LatoBold.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/LatoItalic.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/NewsCycle.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSans.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Raleway.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RalewayBold.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Roboto.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RobotoBold.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RobotoLight.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Ubuntu.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/journal.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/lumen.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/paper.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/readable.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/sandstone.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/simplex.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/spacelab.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/united.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/yeti.min.css'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/js/bootstrap.js'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/js/bootstrap.min.js'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/js/npm.js'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/shim/html5shiv.min.js'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/shim/respond.min.js'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/jquery-1.11.3/jquery.min.js'
+rm '.Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/kePrint-0.0.1/kePrint.js'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/8203DED3B5AA2065/chunks.json'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c1n8g29ayl52h/000004.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c46n4131pap04/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c5hmyt8bdk3ee/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c5icd43roroqe/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000003.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000003.rdf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000004.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000005.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000005.rdf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c87qho1clmiyn/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c8i3403eeb2zq/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c9558b8rlke4w/00001d.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c9558b8rlke4w/00001e.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c9558b8rlke4w/00001e.rdf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000008.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000009.html'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000009.json'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000009.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb7xglv4eemhj/000004.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000016.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000017.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000017.rdf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000018.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000019.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000019.rdf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cd2jqb88i46ce/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cd2jqb88i46ce/000003.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cfijhseosrtvh/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/chbfxanlyeqso/000004.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/chunks.json'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ck75vf93ipblu/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000003.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000003.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000003.snapshot'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmbmoxa5snw3i/000004.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmbmoxa5snw3i/000005.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmlogrvmbemu5/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000004.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000006.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000008.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000a.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000b.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000b.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000b.snapshot'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000c.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000e.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000010.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000012.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000014.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000015.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000015.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000015.snapshot'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000016.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000018.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001a.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001c.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001e.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001f.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001f.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001f.snapshot'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000003.metadata'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000003.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000003.snapshot'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cotf2i5b4y2cg/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cps2wo62dighg/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cser90tfo85lq/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cser90tfo85lq/000003.png'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/csetup_chunk/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ctm2bqc1uos68/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cu8ve51t2b0s2/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cvamxkfs9tdvu/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cwr6g9efre7fn/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cxy7j4vnzpp4p/000002.csv'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap-theme.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap-theme.css.map'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap-theme.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap.css.map'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/cerulean.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/cosmo.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/flatly.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Lato.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/LatoBold.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/LatoItalic.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/NewsCycle.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSans.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Raleway.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RalewayBold.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Roboto.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RobotoBold.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RobotoLight.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Ubuntu.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/journal.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/lumen.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/paper.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/readable.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/sandstone.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/simplex.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/spacelab.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/united.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/yeti.min.css'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/js/bootstrap.js'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/js/bootstrap.min.js'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/js/npm.js'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/shim/html5shiv.min.js'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/shim/respond.min.js'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/jquery-1.11.3/jquery.min.js'
+rm '.Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/kePrint-0.0.1/kePrint.js'
+rm '.Rproj.user/shared/notebooks/patch-chunk-names'
+rm '.Rproj.user/shared/notebooks/paths'
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mdeleted:    .Rproj.user/8203DED3/console06/2AF40187[m
+	[32mdeleted:    .Rproj.user/8203DED3/console06/2AF40187.env[m
+	[32mdeleted:    .Rproj.user/8203DED3/console06/INDEX001[m
+	[32mdeleted:    .Rproj.user/8203DED3/pcs/debug-breakpoints.pper[m
+	[32mdeleted:    .Rproj.user/8203DED3/pcs/files-pane.pper[m
+	[32mdeleted:    .Rproj.user/8203DED3/pcs/source-pane.pper[m
+	[32mdeleted:    .Rproj.user/8203DED3/pcs/windowlayoutstate.pper[m
+	[32mdeleted:    .Rproj.user/8203DED3/pcs/workbench-pane.pper[m
+	[32mdeleted:    .Rproj.user/8203DED3/persistent-state[m
+	[32mdeleted:    .Rproj.user/8203DED3/rmd-outputs[m
+	[32mdeleted:    .Rproj.user/8203DED3/saved_source_markers[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/68B60898[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/6AD79A8[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/A446D628[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/AFAF05DA[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/B729558D[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/C5D2E5C8[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/D158ACB1[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/D2D31520[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/EE5C72ED[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/prop/INDEX[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/s-B5AA2065/FD20A72E[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/s-B5AA2065/FD20A72E-contents[m
+	[32mdeleted:    .Rproj.user/8203DED3/sources/s-B5AA2065/lock_file[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/current_index[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/history_entries[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/index.html[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap-theme.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap-theme.css.map[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap-theme.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap.css.map[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/bootstrap.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/cerulean.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/cosmo.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/flatly.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Lato.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/LatoBold.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/LatoItalic.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/NewsCycle.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSans.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Raleway.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RalewayBold.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Roboto.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RobotoBold.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RobotoLight.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/fonts/Ubuntu.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/journal.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/lumen.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/paper.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/readable.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/sandstone.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/simplex.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/spacelab.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/united.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/css/yeti.min.css[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/js/bootstrap.js[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/js/bootstrap.min.js[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/js/npm.js[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/shim/html5shiv.min.js[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/bootstrap-3.3.5/shim/respond.min.js[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/jquery-1.11.3/jquery.min.js[m
+	[32mdeleted:    .Rproj.user/8203DED3/viewer_history/viewhtml22f44d8672bb/lib/kePrint-0.0.1/kePrint.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/8203DED3B5AA2065/chunks.json[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c1n8g29ayl52h/000004.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c46n4131pap04/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c5hmyt8bdk3ee/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c5icd43roroqe/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000003.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000003.rdf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000004.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000005.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c6sdq48dd5jff/000005.rdf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c87qho1clmiyn/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c8i3403eeb2zq/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c9558b8rlke4w/00001d.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c9558b8rlke4w/00001e.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/c9558b8rlke4w/00001e.rdf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000008.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000009.html[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000009.json[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb0w8gq6o0gbe/000009.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cb7xglv4eemhj/000004.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000016.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000017.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000017.rdf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000018.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000019.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ccfkxmlhz4ylx/000019.rdf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cd2jqb88i46ce/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cd2jqb88i46ce/000003.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cfijhseosrtvh/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/chbfxanlyeqso/000004.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/chunks.json[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ck75vf93ipblu/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000003.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000003.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ckrgnzozde4th/000003.snapshot[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmbmoxa5snw3i/000004.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmbmoxa5snw3i/000005.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmlogrvmbemu5/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000004.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000006.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000008.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000a.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000b.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000b.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000b.snapshot[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000c.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00000e.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000010.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000012.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000014.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000015.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000015.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000015.snapshot[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000016.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/000018.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001a.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001c.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001e.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001f.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001f.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cmq8ucetvalux/00001f.snapshot[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000003.metadata[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000003.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/coo3ep3ntt6o1/000003.snapshot[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cotf2i5b4y2cg/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cps2wo62dighg/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cser90tfo85lq/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cser90tfo85lq/000003.png[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/csetup_chunk/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/ctm2bqc1uos68/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cu8ve51t2b0s2/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cvamxkfs9tdvu/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cwr6g9efre7fn/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/cxy7j4vnzpp4p/000002.csv[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap-theme.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap-theme.css.map[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap-theme.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap.css.map[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/bootstrap.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/cerulean.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/cosmo.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/flatly.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Lato.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/LatoBold.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/LatoItalic.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/NewsCycle.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSans.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Raleway.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RalewayBold.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Roboto.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RobotoBold.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RobotoLight.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/fonts/Ubuntu.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/journal.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/lumen.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/paper.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/readable.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/sandstone.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/simplex.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/spacelab.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/united.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/css/yeti.min.css[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/js/bootstrap.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/js/bootstrap.min.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/js/npm.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/shim/html5shiv.min.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/bootstrap-3.3.5/shim/respond.min.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/jquery-1.11.3/jquery.min.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/53722C11-Spagnola_William_APSTA_2013_Final_Project/1/s/lib/kePrint-0.0.1/kePrint.js[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/patch-chunk-names[m
+	[32mdeleted:    .Rproj.user/shared/notebooks/paths[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/[m
+
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git add .
