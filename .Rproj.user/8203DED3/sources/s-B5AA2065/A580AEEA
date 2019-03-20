@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553104881885.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A580AEEA",
+    "lastKnownWriteTime" : 8093582259736543238,
+    "last_content_update" : 1553104881885,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "8a6df599c3ce4d3caea5d742f97f4e15",
+        "name" : "risk_mdf",
+        "title" : "risk_mdf"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
