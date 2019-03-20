@@ -1,0 +1,19 @@
+
+Removing .Rproj.user/8203DED3/
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .gitignore/.gitignore[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/A3SR/APSTA-2013/missing_data_finalVergara-Spagnolas-MacBook-Pro:missing_data_final vergara-spagnola$ git pus[K[K[Kadd .
